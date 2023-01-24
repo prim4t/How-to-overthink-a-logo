@@ -1,0 +1,16 @@
+Research/Inspiration:
+https://de.wikipedia.org/wiki/Ouroboros
+https://en.wikipedia.org/wiki/Yin_and_yang
+https://en.wikipedia.org/wiki/Double_Dragon
+https://de.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim
+https://www.deviantart.com/aerin-kayne
+
+Retro ACII/Terminal/Matrix Look:
+https://github.com/Swordfish90/cool-retro-term
+https://asciiart.club/
+https://fsymbols.com/generators/carty/
+https://github.com/abishekvashok/cmatrix
+
+Honorary Mentions
+Rexpaint a ASCII-Art-Editor: https://www.gridsagegames.com/rexpaint/index.html
+Peek a Screencapture tool for linux: https://github.com/phw/peek
