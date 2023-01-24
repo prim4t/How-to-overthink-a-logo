@@ -1,61 +1,105 @@
+# How to overthink a Logo!
 
 
-#  Website Setup Essentials
-##### Everything you need to start your minimal fast and secure Blog
-
-
-![TeXt Theme Details](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-layouts.png)
-
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
-
-## :envelope: Register E-Mail : **[Mailfence](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)** | **[Criptext](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)** 
-
-## :link: Get Git : **[GitHub](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)** | **[GitLab](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)**
-
-## :computer: Get Hosting :  **[Netlify](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)** | **[Versel](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)**
-
-## :globe_with_meridians: Register Domain : **[Namecheap](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)** | **[2](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)** | **[3](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)** | **[4](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)**
-
-## :art: Get Theme/Template : **[1](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)** | **[2](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)** | **[3](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)** | **[4](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)**
-
-| Chalk | TeXt | forest |
-| --- |  --- | --- |
-| [![Chalk](sainofsinner/saintofsinner-logo-matrix-animation-1.gif)](https://github.com/nielsenramon/chalk) | [![TeXt](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)](https://github.com/kitian616/jekyll-TeXt-theme) | [![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg)](LINK) |
-
-## Documentation
-
-### Start
-
-- [Quick Start](https://tianqi.name/jekyll-TeXt-theme/docs/en/quick-start)
-- [Update from 1.x to 2.x](https://tianqi.name/jekyll-TeXt-theme/docs/en/update-from-1-to-2)
-
-### Customization
-
-- [Configuration](https://tianqi.name/jekyll-TeXt-theme/docs/en/configuration)
-- [Navigation](https://tianqi.name/jekyll-TeXt-theme/docs/en/navigation)
-- [Layouts](https://tianqi.name/jekyll-TeXt-theme/docs/en/layouts)
-- [Logo and Favicon](https://tianqi.name/jekyll-TeXt-theme/docs/en/logo-and-favicon)
-- [Authors](https://tianqi.name/jekyll-TeXt-theme/docs/en/authors)
-- [Internationalization](https://tianqi.name/jekyll-TeXt-theme/docs/en/i18n)
-
-### Content
-
-- [Writing Posts](https://tianqi.name/jekyll-TeXt-theme/docs/en/writing-posts)
-- [Additional styles](https://tianqi.name/jekyll-TeXt-theme/docs/en/additional-styles)
-- [Extensions](https://tianqi.name/jekyll-TeXt-theme/docs/en/extensions)
-- [Markdown Enhancements](https://tianqi.name/jekyll-TeXt-theme/docs/en/markdown-enhancements)
-
-## Demo Pages
-
-| Name | Description |
-| --- | --- |
-| [Home](https://tianqi.name/jekyll-TeXt-theme/test/) | Home page |
-| [Archive](https://tianqi.name/jekyll-TeXt-theme/archive.html) | Archive page |
-| [Layout Examples](https://tianqi.name/jekyll-TeXt-theme/samples.html) | Examples for different layouts |
+#### This is the logo creation process for a new logo for the german linux gaming streamer [SaintofSinner](https://www.twitch.tv/saintofsinner)
 
 ---
 
-Web Setup Essentials from [Primitive Tutorials](https://tianqi.name/jekyll-TeXt-theme/test/)
+### Research/Inspiration:
 
-[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-1462ab.svg?logo=paypal)](https://www.paypal.me/kitian616)
-[![Tip Me via Bitcoin](https://img.shields.io/badge/Bitcoin-tip%20me-f7931a.svg?logo=bitcoin)](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/3Fkufxcw2xd8HnaRJBNK4ccdtkUDyyNu4V.jpg)
+- [Ouroboros](https://de.wikipedia.org/wiki/Ouroboros)
+- [Yin_and_yang](https://en.wikipedia.org/wiki/Yin_and_yang)
+- [Double_Dragon](https://en.wikipedia.org/wiki/Double_Dragon)
+- [Skyrim](https://de.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim)
+- [aerin-kayne](https://www.deviantart.com/aerin-kayne)
+
+![TeXt Theme Details](https://raw.githubusercontent.com/prim4t/How-to-overthink-a-logo/main/saintofsinner/research.JPG)
+
+### consulting AI:
+
+- [Midjourney](https://www.midjourney.com)
+
+![TeXt Theme Details](https://raw.githubusercontent.com/prim4t/How-to-overthink-a-logo/main/saintofsinner/ai.JPG)
+
+### look for a font:
+![TeXt Theme Details](https://raw.githubusercontent.com/prim4t/How-to-overthink-a-logo/main/saintofsinner/font.JPG)
+
+### Prototyping and formfinding:
+![TeXt Theme Details](https://raw.githubusercontent.com/prim4t/How-to-overthink-a-logo/main/saintofsinner/proto.JPG)
+![TeXt Theme Details](https://raw.githubusercontent.com/prim4t/How-to-overthink-a-logo/main/saintofsinner/proto2.JPG)
+
+### Reducing:
+![TeXt Theme Details](https://raw.githubusercontent.com/prim4t/How-to-overthink-a-logo/main/saintofsinner/reduction.JPG)
+
+### Final Form:
+![TeXt Theme Details](https://raw.githubusercontent.com/prim4t/How-to-overthink-a-logo/main/saintofsinner/final.JPG)
+
+### turn it into ASCII:
+- [ASCII Art converter](https://asciiart.club/)
+- [ASCII Text generator](https://fsymbols.com/generators/carty/)
+
+<pre><span class="inner-pre" style="font-size: 5px">
+
+                                   ,▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄L,
+                            ,▄▄██████████████████████████▄▄▄
+                        ▄▄████████████████████████████████████▄
+                     ▄██████████████▀▀▀▀╙'╘"└`└▀▀▀▀▀████████████
+                  ▄███████████▀╙                       ▀████████`
+                ▄█████████▀└                          ,█████████
+              ▄████████▀                            ▄████████▀▄▄████████▄▄
+            ,███████▀"                          ,▄███████▀▀▄████████████████
+           ▄██████▀                         ,▄███████▀▀▄█████████████████████▄
+          ███████                       ,▄████████▀▄▄█████████▀▀`     "▀██████▄
+         ██████▀                    ,▄████████▀▄▄████████▀▀             "██████▄
+        ██████                  ╓▄████████▀▀▄████████▀'                   ▀█████▄
+       ██████               ,▄█████████▀▄▄███████▀▄▄▄▀▀█▄▄                 ██████
+      ▐█████              ▄████████▀▄▄███████▀▀     ▀██▄▄▀██▄▄              ██████
+      █████▌            ▄██████▀▀▄████████▀`          ▀███▄"███▄,           ╘█████W
+     ▐█████            █████▀▄▄███████▀▀                ████▄████▄           █████▌
+     █████▌            ███▀▄███████▀'                    ███▌▐████▌          ▐█████
+     █████▌            ▐█,██████▀▄╛                      ▐█▀▄█████▌          ▐█████
+     █████▌              ██████╔▀                         ▄██████▀▄▌         ▐█████
+     ██████              █████ ▌                      ,▄████████▀▄██         ▐█████
+     ██████              ▀████w█                   ,▄████████▀▄▄████         ██████
+     ╘█████▌               ▀███▄▀,              ▄████████▀▀▄███████         ▐█████▌
+      ██████▄                "▀██▄,         ,▄████████▀▄▄████████"          ██████
+       ██████                    ╙▀██▄,  ▄▄███████▀▄▄█████████▀            ██████▌
+       ▐██████                       ;▄███████▀▀▄█████████▀╙              ███████
+        ▀██████▄                  ▄███████▀▀▄█████████▀"                ,███████
+         ▀██████▄            ,▄▄██████▀▀▄████████▀▀                    ▄██████▀
+          ╙███████▄      ▄▄███████▀▄▄███████▀▀`                      ╓███████▀
+            ██████████████████▀▄▄███████▀▀                         ,████████
+             ▀███████████▀▀▄▄██████▀▀└                           ▄████████▀
+               "▀▀▀▀▀▀' ▄███████▀'                            ▄█████████▀
+                      ,████████,                          ▄▄█████████▀└
+                      ▐████████████▄▄▄▄,,        ,,▄▄▄▄███████████▀▀
+                       ▀▀██████████████████████████████████████▀"
+                           └▀▀████████████████████████████▀▀⌠
+                                  "▀▀▀▀▀█████████▀▀▀▀▀└
+
+                                                                                                                             
+
+░██████╗░█████╗░██╗███╗░░██╗████████╗  ░█████╗░███████╗  ░██████╗██╗███╗░░██╗███╗░░██╗███████╗██████╗░
+██╔════╝██╔══██╗██║████╗░██║╚══██╔══╝  ██╔══██╗██╔════╝  ██╔════╝██║████╗░██║████╗░██║██╔════╝██╔══██╗
+╚█████╗░███████║██║██╔██╗██║░░░██║░░░  ██║░░██║█████╗░░  ╚█████╗░██║██╔██╗██║██╔██╗██║█████╗░░██████╔╝
+░╚═══██╗██╔══██║██║██║╚████║░░░██║░░░  ██║░░██║██╔══╝░░  ░╚═══██╗██║██║╚████║██║╚████║██╔══╝░░██╔══██╗
+██████╔╝██║░░██║██║██║░╚███║░░░██║░░░  ╚█████╔╝██║░░░░░  ██████╔╝██║██║░╚███║██║░╚███║███████╗██║░░██║
+╚═════╝░╚═╝░░╚═╝╚═╝╚═╝░░╚══╝░░░╚═╝░░░  ░╚════╝░╚═╝░░░░░  ╚═════╝░╚═╝╚═╝░░╚══╝╚═╝░░╚══╝╚══════╝╚═╝░░╚═╝
+
+</span></pre>
+
+
+### Adding some Retro Terminal/Matrix Look:
+- [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term)
+- [cmatrix](https://github.com/abishekvashok/cmatrix)
+
+
+
+
+
+
+![TeXt Theme Details](https://raw.githubusercontent.com/prim4t/How-to-overthink-a-logo/main/saintofsinner/saintofsinner-logo-matrix-animation-1.gif)
+
+![TeXt Theme Details](https://raw.githubusercontent.com/prim4t/How-to-overthink-a-logo/main/saintofsinner/saintofsinner-logo-matrix-animation-4.gif)
+![TeXt Theme Details](https://raw.githubusercontent.com/prim4t/How-to-overthink-a-logo/main/saintofsinner/saintofsinner-logo-matrix-animation-5.gif)
+![TeXt Theme Details](https://raw.githubusercontent.com/prim4t/How-to-overthink-a-logo/main/saintofsinner/saintofsinner-logo-matrix-animation-6.gif)
