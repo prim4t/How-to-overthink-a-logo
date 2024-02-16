@@ -1,5 +1,7 @@
 # How to overthink a Logo!
 
+![TeXt Theme Details](https://raw.githubusercontent.com/prim4t/How-to-overthink-a-logo/main/saintofsinner/saintofsinner-logo-matrix-animation-1.gif)
+
 
 #### This is the logo creation process for a new logo for the german linux gaming streamer [SaintofSinner](https://www.twitch.tv/saintofsinner)
 
@@ -97,8 +99,6 @@
 
 
 
-
-![TeXt Theme Details](https://raw.githubusercontent.com/prim4t/How-to-overthink-a-logo/main/saintofsinner/saintofsinner-logo-matrix-animation-1.gif)
 
 ![TeXt Theme Details](https://raw.githubusercontent.com/prim4t/How-to-overthink-a-logo/main/saintofsinner/saintofsinner-logo-matrix-animation-4.gif)
 ![TeXt Theme Details](https://raw.githubusercontent.com/prim4t/How-to-overthink-a-logo/main/saintofsinner/saintofsinner-logo-matrix-animation-5.gif)
